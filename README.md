@@ -1,4 +1,4 @@
-# Codebasics Resume Project Chellange 13 Ad-Hoc Queries
+# Codebasics Resume Project Challenge 13 Ad-Hoc Queries
 It contains 6 Business request Ad-Hoc SQL queries that are the part of Codebasics Resume Project challenge: 13.
 These queries are written in MySQL Server.
 
